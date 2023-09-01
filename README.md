@@ -95,6 +95,6 @@
 <p align=left>
 <b>Dynamic Memory Allocator | C </b><br>
 •	Implemented dynamic allocation for small sized memory requests on x86-64 architecture by developing functional Malloc, Calloc, Realloc and free functions to run Unix commands<br>
-•	Divided pages in blocks of powers of 2, min 32 bytes, and stored unused memory in an AIOLI structure<br>
+•	Divided pages in blocks of powers of 2, minimally 32 bytes, and stored unused memory in an AIOLI structure<br>
 
 </p>
