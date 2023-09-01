@@ -65,3 +65,36 @@
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albikozeli&theme=2077" height="180em" />
 </div>
+
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Projects</h3>
+<h3 align="left">Artificial Intelligence</h3>
+<p align="left">
+<b>Reinforcement Learning Gridworld | Python </b> <br>
+•	Created a 4x4 NumPy matrix environment with rewards, obstacles, and goal state <br>
+•	Developed SARSA, Q-Learning and Double Q-learning algorithms to find optimal path towards goal state <br>
+•	Visualized environment and data plots for statistics of agents over 1000 episodes with Matplotlib <br>
+
+<b>Image Clustering Face Recognition | Python - PyTorch</b><br>
+•	Applied face recognition library's face_encodings function to extract a numerical representation (embedding) of each face's features<br>
+•	Developed k-means clustering algorithm for a celebrity image dataset to group same faces together by using the face encodings<br>
+
+
+</p>
+
+<h3 align="left">Web Development</h3>
+<p align=left>
+<b>Battleship Game Website | Flask - Python - JavaScript</b><br>
+•	Built backend parts, RESTful API, AJAX calls with Flask and managed deployment of website<br>
+•	Developed WebSocket communication between players and server for real time interaction<br>
+•	Implemented game room creation, user pairing and game logic<br> 
+
+</p>
+
+<h3 align="left">Systems</h3>
+<p align=left>
+<b>Dynamic Memory Allocator | C </b><br>
+•	Implemented dynamic allocation for small sized memory requests on x86-64 architecture by developing functional Malloc, Calloc, Realloc and free functions to run Unix commands<br>
+•	Divided pages in blocks of powers of 2, min 32 bytes, and stored unused memory in an AIOLI structure<br>
+
+</p>
