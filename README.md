@@ -82,10 +82,9 @@
 
 <b>AI Sliding Puzzle | Python</b><br>
 •	Created a Sliding puzzle as a 3x3 NumPy matrix with numbers 0 to 9<br>
-•	Implemented Uninformed search algorithms such as BFS and DFS as well as the A* algorithm by calculating the heuristic cost with Manhattan distance<br>
-•	Graphically analyzed total time of algorithm and number of nodes each algorithm explored<br>
-
-
+•	Implemented Uninformed search algorithms such as BFS and DFS <br>
+• Developed A* algorithm by calculating the heuristic cost with Manhattan distance<br>
+•	Graphically analyzed total time of each algorithm and number of nodes each algorithm explored<br>
 
 </p>
 
