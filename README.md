@@ -85,6 +85,12 @@
 •	Developed WebSocket communication between players and server for real time interaction<br>
 •	Implemented game room creation, user pairing and game logic<br> 
 
+<b>Mini Zoom | Python - JavaScript</b> <br>
+•	Created a simple version of the popular zoom app by establishing peer to peer Web RTC communications between clients <br>
+•	Implemented a signaling server that allows for Web RTC connections to be created when clients join the meeting <br>
+•	Utilized Google’s STUN server on client side to establish the Web RTC Connections between the clients<br>
+
+
 </p>
 
 <h3 align="left">Systems</h3>
