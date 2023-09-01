@@ -86,7 +86,7 @@
 <h3 align="left">Web Development</h3>
 <p align=left>
 <b>Battleship Game Website | Flask - Python - JavaScript</b><br>
-•	Built backend parts, RESTful API, AJAX calls with Flask and managed deployment of website<br>
+•	Built backend parts, RESTful API, AJAX calls with Flask and managed deployment of website through Docker and Nginx<br>
 •	Developed WebSocket communication between players and server for real time interaction<br>
 •	Implemented game room creation, user pairing and game logic<br> 
 
