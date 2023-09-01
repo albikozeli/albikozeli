@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albikozeli&label=Profile%20views&color=0e75b6&style=flat" alt="albikozeli" /> </p>
-![Albi Kozeli](https://github.com/albikozeli/albikozeli/assets/98725619/ae6cbe67-f77d-412b-82d2-33225449306e)
+
+<img src="https://github.com/albikozeli/albikozeli/assets/98725619/ae6cbe67-f77d-412b-82d2-33225449306e" alt="Banner" />
 <h1 align="center">Hi there👋, I'm Albi</h1>
 <h3 align="center">I am a computer science student, graduating in December 2023. I have a passion for Backend Software Engineering and Artificial Intelligence. I also enjoy solving puzzles and complex tasks. Over this summer I interned at Walmart Global Tech and worked on a distributed systems orchestrator app that provides all the supply chain information for Walmart e-commerce orders. </h3>
 
