@@ -68,7 +68,7 @@
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Projects</h3>
-<h5 align="center">School project repos must be private per Academic Integrity policy</h5>
+<h5 align="center">Repositories for school project must not be public per Academic Integrity policy</h5>
 <h3 align="left">Artificial Intelligence</h3>
 <p align="left">
 <b>Reinforcement Learning Gridworld | Python </b> <br>
