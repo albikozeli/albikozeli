@@ -104,3 +104,20 @@
 •	Divided pages in blocks of powers of 2, minimally 32 bytes, and stored unused memory in an AIOLI structure<br>
 
 </p>
+
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Courses</h3>
+<p align=left>
+•	Data Structures<br>
+•	Algorithms and Complexity<br>
+•	Algorithm Design<br>
+•	Aritficial Intelligence<br>
+•	Machine Learning<br>
+•	Computer Vision<br>
+•	Backend Web Development<br>
+•	Networking Concepts<br>
+•	Systems Programming<br>
+•	Computer Organization<br>
+•	Computer Systems Administration<br>
+
+</p>
