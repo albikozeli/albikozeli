@@ -118,6 +118,8 @@
 •	Data Structures<br>
 •	Algorithms and Complexity<br>
 •	Algorithm Design<br>
+• Probability Theory<br>
+• Linear Algebra<br>
 •	Aritficial Intelligence<br>
 •	Machine Learning<br>
 •	Computer Vision<br>
