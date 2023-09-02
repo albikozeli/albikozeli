@@ -68,7 +68,7 @@
 
 <b>Image Clustering Face Recognition | Python - PyTorch</b><br>
 •	Applied face recognition library's face_encodings function to extract a numerical representation (embedding) of each face's features<br>
-•	Developed k-means clustering algorithm, with only basic function in PyTorch, to group same faces together by using the face encodings<br>
+•	Developed k-means clustering algorithm, with only basic functions of PyTorch, to group same faces together by using the face encodings<br>
 
 <b>AI Sliding Puzzle | Python</b><br>
 •	Created a Sliding puzzle as a 3x3 NumPy matrix with numbers 0 to 9<br>
