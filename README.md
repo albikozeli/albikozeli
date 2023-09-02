@@ -99,6 +99,11 @@
 •	Implemented dynamic allocation for small sized memory requests on x86-64 architecture by developing functional Malloc, Calloc, Realloc and free functions to run Unix commands<br>
 •	Divided pages in blocks of powers of 2, minimally 32 bytes, and stored unused memory in an AIOLI structure<br>
 
+<b>Semaphore and Producer Consumer Queue | C</b><br>
+•	Built a Semaphore by utilizing one POSIX mutex and one condition variable<br>
+•	Used the built Semaphore to create a Producer-Consumer Queue (PCQueue) that allocates slots of a fixed size in a FIFO queue<br>
+•	Both the Semaphore and PCQueue were created dynamically and at the end all memory was freed and all mutexes and condition variables were destroyed <br>
+
 </p>
 
 <br><br>
