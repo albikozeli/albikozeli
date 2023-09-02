@@ -36,6 +36,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
 <img src="https://github.com/albikozeli/albikozeli/assets/98725619/3dd28f22-e9ef-4990-909c-d5245ed5ed73" alt="Flask" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" width="40" height="40"/>
+<img src="https://github.com/albikozeli/albikozeli/assets/98725619/817f3ec6-2bbd-4cc6-a03d-446a193ed4b4" alt="Akka" width="40" height="40"/>
 </p>
 
 <h3 align="left">Software</h3>
