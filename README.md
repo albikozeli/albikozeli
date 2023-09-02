@@ -90,6 +90,12 @@
 •	Implemented a signaling server that allows for Web RTC connections to be created when clients join the meeting <br>
 •	Utilized Google’s STUN server on client side to establish the Web RTC Connections between the clients<br>
 
+<b>Authenticated Live Chat | Python - Javascript - PyMongo</b><br>
+•	Utilized Pymongo to store account information and chat history in a Mongo Database<br>
+•	Hashed and Salted account passwords, and by using HttpOnly cookies ensured that only authenticated clients could use the chat<br>
+•	Established WebSocket connections between server and clients by completing the WebSocket handshake and switching protocols<br>
+•	Parsed WebSocket frames on a byte-by-byte level and transmitted messages to all connected clients in real-time<br>
+
 
 </p>
 
