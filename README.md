@@ -92,8 +92,8 @@
 •	Utilized Google’s STUN server on client side to establish the Web RTC Connections between the clients<br>
 
 <b>Authenticated Live Chat | Python - Javascript - PyMongo</b><br>
-•	Utilized Pymongo to store account information and chat history in a Mongo Database<br>
-•	Hashed and Salted account passwords, and by using HttpOnly cookies ensured that only authenticated clients could use the chat<br>
+•	Utilized Pymongo to store chat history and account information with hashed and salted passwords <br>
+•	Ensured that only authenticated clients could use the chat through HttpOnly cookies<br>
 •	Established WebSocket connections between server and clients by completing the WebSocket handshake and switching protocols<br>
 •	Parsed WebSocket frames on a byte-by-byte level and transmitted messages to all connected clients in real-time<br>
 
@@ -108,7 +108,7 @@
 
 <b>Semaphore and Producer Consumer Queue | C</b><br>
 •	Built a Semaphore by utilizing one POSIX mutex and one condition variable<br>
-•	Used the built Semaphore to create a Producer-Consumer Queue (PCQueue) that allocates slots of a fixed size in a FIFO queue<br>
+•	Used the Semaphore to create a Producer-Consumer Queue that allocates slots through a FIFO queue<br>
 •	Both the Semaphore and PCQueue were created dynamically and at the end all memory was freed and all mutexes and condition variables were destroyed <br>
 
 </p>
