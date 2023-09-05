@@ -67,6 +67,11 @@
 •	Developed SARSA, Q-Learning and Double Q-learning algorithms to find optimal path towards goal state <br>
 •	Visualized environment and data plots for statistics of agents over 1000 episodes with Matplotlib <br>
 
+<b>Logistic Regression | Python - Numpy - Pandas</b><br>
+• Used Pandas to clean the Penguin dataset and change categorical values to numerical ones<br>
+• Created a logistic regression model by only using Numpy and used gradient descent to optimize it<br>
+• Trained the model with the penguin dataset and achieved 85% accuracy on testing set<br>
+
 <b>Image Clustering Face Recognition | Python - PyTorch</b><br>
 •	Applied face recognition library's face_encodings function to extract a numerical representation (embedding) of each face's features<br>
 •	Developed k-means clustering algorithm, with only basic functions of PyTorch, to group same faces together by using the face encodings<br>
