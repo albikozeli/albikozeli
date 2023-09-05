@@ -119,8 +119,8 @@
 <b>Priority Queue Data Structure | C</b><br>
 •	Utilized C pointers and C structs to create a priority queue data structure that allows for O(1) access for all routine operations, and retrieves items based on priority<br>
 •	Priority queue consisted of a doubly linked list, with C structs as nodes, and a table of pointer that keep track of last node in the priority queue to allow for O(1) insertions<br>
-•	All memory was created dynamically and freed after use<br>
 •	Performed unit tests for functionality of queue and ensured there were no memory leaks<br>
+•	All memory was created dynamically and freed after use<br>
 
 
 </p>
