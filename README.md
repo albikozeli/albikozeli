@@ -99,7 +99,7 @@
 <b>Authenticated Live Chat | Python - Javascript - PyMongo</b><br>
 •	Utilized Pymongo to store chat history and account information with hashed and salted passwords <br>
 •	Ensured that only authenticated clients could use the chat through HttpOnly cookies<br>
-•	Established WebSocket connections between server and clients by completing the WebSocket handshake and switching protocols<br>
+•	Established WebSocket connections by completing the WebSocket handshake and switching protocols<br>
 •	Parsed WebSocket frames on byte-by-byte level and transmitted messages to connected clients in real-time<br>
 
 
