@@ -108,7 +108,7 @@
 <h3 align="left">Systems</h3>
 <p align=left>
 <b>Dynamic Memory Allocator | C </b><br>
-•	Implemented dynamic allocation for small sized memory requests on x86-64 architecture by developing functional Malloc, Calloc, Realloc and free functions to run Unix commands<br>
+•	Implemented dynamic allocation for small sized memory requests on x86-64 architecture by developing functional Malloc, Calloc, Realloc and free functions for Unix processes<br>
 •	Divided pages in blocks of powers of 2, minimally 32 bytes, and stored unused memory in an Array of Linked Lists structure<br>
 
 <b>Semaphore and Producer Consumer Queue | C</b><br>
