@@ -60,7 +60,9 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Projects</h3>
 <h5 align="center">Repositories for school project cannot be public per Academic Integrity policy</h5>
-<h3 align="left">Artificial Intelligence</h3>
+<details>
+<summary><h3 align="left">Artificial Intelligence</h3></summary>
+<br>
 <p align="left">
 <b>Reinforcement Learning Gridworld | Python </b> <br>
 •	Created a 4x4 NumPy matrix environment with rewards, obstacles, and goal state <br>
@@ -83,8 +85,11 @@
 •	Graphically analyzed total time of each algorithm and number of nodes each algorithm explored<br>
 
 </p>
+</details>
 
-<h3 align="left">Web Development</h3>
+<details>
+<summary><h3 align="left">Web Development</h3></summary>
+<br>
 <p align=left>
 <b>Battleship Game Website | Flask - Python - JavaScript</b><br>
 •	Built backend parts, RESTful API, AJAX calls with Flask and deployed website through Docker and Nginx<br>
@@ -102,10 +107,12 @@
 •	Established WebSocket connections by completing the WebSocket handshake and switching protocols<br>
 •	Parsed WebSocket frames on byte-by-byte level and transmitted messages to connected clients in real-time<br>
 
-
 </p>
+</details>
 
-<h3 align="left">Systems</h3>
+<details>
+<summary><h3 align="left">Systems</h3></summary>
+<br>
 <p align=left>
 <b>Dynamic Memory Allocator | C </b><br>
 •	Implemented dynamic allocation for small sized memory requests on x86-64 architecture by developing functional Malloc, Calloc, Realloc and free functions for Unix processes<br>
@@ -122,8 +129,12 @@
 •	Performed unit tests for functionality of queue and ensured there were no memory leaks<br>
 •	All memory was created dynamically and freed after use<br>
 
-
 </p>
+</details>
+
+
+
+
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Courses</h3>
