@@ -87,7 +87,7 @@
 <h3 align="left">Web Development</h3>
 <p align=left>
 <b>Battleship Game Website | Flask - Python - JavaScript</b><br>
-•	Built backend parts, RESTful API, AJAX calls with Flask and managed deployment of website through Docker and Nginx<br>
+•	Built backend parts, RESTful API, AJAX calls with Flask and deployed website through Docker and Nginx<br>
 •	Developed WebSocket communication between players and server for real time interaction<br>
 •	Implemented game room creation, user pairing and game logic<br> 
 
@@ -100,7 +100,7 @@
 •	Utilized Pymongo to store chat history and account information with hashed and salted passwords <br>
 •	Ensured that only authenticated clients could use the chat through HttpOnly cookies<br>
 •	Established WebSocket connections between server and clients by completing the WebSocket handshake and switching protocols<br>
-•	Parsed WebSocket frames on a byte-by-byte level and transmitted messages to all connected clients in real-time<br>
+•	Parsed WebSocket frames on byte-by-byte level and transmitted messages to connected clients in real-time<br>
 
 
 </p>
