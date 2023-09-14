@@ -56,6 +56,18 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nginx-original.svg" alt="Nginx" width="40" height="40"/>
 </p>
 
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Internship</h3>
+<p align="left">
+
+<b>Walmart Global Tech | Sunnyvale, CA | May 2023 - August 2023</b><br>
+<b>Software Engineer Intern | Java - Spring Boot - Akka</b><br>
+•	Worked on a distributed systems supply chain orchestrator app for Walmart e-commerce<br>
+•	Facilitated communication between 2 applications to add a new flow as part of the order amending process to ensure inventory reservation happens in real time<br>
+•	Implemented cloud-based integration and changed defaulting logic for Shipping Strategy based on a running experiment so that AB Testing could be conducted<br>
+•	Performed Unit tests, Regression tests, Integration tests and E2E tests to ensure error free product <br>
+
+</p>
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Projects</h3>
