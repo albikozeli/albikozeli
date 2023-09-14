@@ -60,7 +60,7 @@
 </p>
 
 <br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Internship</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Experience</h3>
 <p align="left">
 
 <img src="https://github.com/albikozeli/albikozeli/assets/98725619/1630ce7b-9463-41d8-b8c7-46a70d2311a7" alt="WGT" width="50" height="50"><br>
