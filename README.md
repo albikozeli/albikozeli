@@ -74,9 +74,9 @@
 
 <br><br>
 <img src="https://github.com/albikozeli/albikozeli/assets/98725619/92eb2d72-f2b7-4721-a6f9-e1e2ac7fbb63" alt="CodePath" width="50" height="50"><br>
-CodePath Android Development Course <br>
+<b>CodePath Android Development Course <br>
 Remote | September 2022 - November 2022 <br>
-Kotlin - SQLite <br>
+Kotlin - SQLite <br></b>
 <br>
 •	Gained application development skills for android operated devices using Kotlin <br>
 •	Created android apps with data from different APIs and applied data persistence using SQLite <br>
