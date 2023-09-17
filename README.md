@@ -164,7 +164,7 @@ Kotlin - SQLite <br></b>
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Courses</h3>
-![Classes](https://github.com/albikozeli/albikozeli/assets/98725619/310537da-a2cd-4052-8ae6-366a0ee8a5db)
+![Classes](https://github.com/albikozeli/albikozeli/assets/98725619/93e5b164-edd1-4312-9792-ba01db6721ec)
 
 
 <br><br>
