@@ -2,7 +2,7 @@
 
 <img src="https://github.com/albikozeli/albikozeli/assets/98725619/ae6cbe67-f77d-412b-82d2-33225449306e" alt="Banner" />
 <h1 align="center">Hi there👋, I'm Albi</h1>
-<h3 align="center">I am a computer science student, graduating in December 2023. I have a passion for Backend Software Engineering and Artificial Intelligence. I also enjoy solving puzzles and complex tasks. Over this summer I interned at Walmart Global Tech and worked on a distributed systems orchestrator app that provides all the supply chain information for Walmart e-commerce orders. </h3>
+<p></p><h3 align="center">I am a computer science student, graduating in December 2023. I have a passion for Backend Software Engineering and Artificial Intelligence. I also enjoy solving puzzles and complex tasks. Over this summer I interned at Walmart Global Tech and worked on a distributed systems orchestrator app that provides all the supply chain information for Walmart e-commerce orders. </h3></p>
 
 
 <div align="center"> <a href="https://www.linkedin.com/in/kozeli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
