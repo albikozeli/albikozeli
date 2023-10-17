@@ -86,7 +86,7 @@ Kotlin - SQLite <br></b>
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Projects</h3>
 <h5 align="center">Repositories for school project cannot be public per Academic Integrity policy</h5>
-<details>
+<details open>
 <summary><h3 align="left">Artificial Intelligence</h3></summary>
 <br>
 <p align="left">
