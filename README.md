@@ -141,9 +141,9 @@ Kotlin - SQLite <br></b>
 <br>
 <p align=left>
 <b>Streamlined Chat Application | C/C++ - g++ - TCP </b><br>
-•	Developed a chat application using C/C++ in a g++ environment, by implementing a client-server model with one server and multiple clients.<br>
-•	Created a dual-functionality application that acts both as a Unix shell and a network application, accepting commands and providing specific command outputs.<br>
-•	Utilized TCP sockets and the select() system call for handling multiple socket connections without using multi-threading or fork-exec.<br>
+•	Developed a chat application using C/C++ in a g++ environment, by implementing a client-server model<br>
+•	Created a dual-functionality application that acts both as a Unix shell and a network application, accepting commands and providing specific command outputs<br>
+•	Utilized TCP sockets and the select() system call for handling multiple socket connections without using multi-threading or fork-exec<br>
 •	Ensured the chat app maintains communication via the server, allowing clients to log in, exchange messages, block/unblock clients, and obtain relevant statistics<br>
 
 </p>
