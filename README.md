@@ -67,10 +67,10 @@
 <b>Walmart Global Tech</b><br>
 <b> Sunnyvale, CA | May 2023 - August 2023</b><br>
 <b>Software Engineer Intern | Java - Spring Boot - Akka - Maven</b><br><br>
-•	Worked on a distributed systems supply chain orchestrator app for Walmart e-commerce<br>
-•	Facilitated communication between 2 applications to add a new flow as part of the order amending process to ensure inventory reservation happens in real time<br>
-•	Implemented cloud-based integration and changed defaulting logic for Shipping Strategy based on a running experiment so that AB Testing could be conducted<br>
-•	Performed Unit tests, Regression tests, Integration tests and E2E tests to ensure error free product <br>
+•	Contributed to a distributed systems supply chain orchestrator application, optimizing operations for Walmart's e-commerce platform<br>
+•	Enhanced system capabilities by facilitating seamless communication between two critical applications, resulting in the implementation of a real-time inventory reservation process as a component of the order amending flow<br>
+•	Modified the defaulting logic for Shipping Strategy, via cloud-based integration, in alignment with ongoing experimental requirements, thus enabling effective AB Testing<br>
+•	Assured product quality and reliability through Unit tests, Regression tests, Integration tests, and End-to-End (E2E) tests, ensuring a defect-free and resilient software product <br>
 
 <br><br>
 <img src="https://github.com/albikozeli/albikozeli/assets/98725619/92eb2d72-f2b7-4721-a6f9-e1e2ac7fbb63" alt="CodePath" width="50" height="50"><br>
@@ -91,9 +91,9 @@ Kotlin - SQLite <br></b>
 <br>
 <p align="left">
 <b>Reinforcement Learning Gridworld | Python </b> <br>
-•	Created a 4x4 NumPy matrix environment with rewards, obstacles, and goal state <br>
-•	Developed SARSA, Q-Learning and Double Q-learning algorithms to find optimal path towards goal state <br>
-•	Visualized environment and data plots for statistics of agents over 1000 episodes with Matplotlib <br>
+•	Created a 4x4 NumPy matrix environment with rewards, obstacles, and goal state<br>
+•	Developed SARSA (on-policy), Q-Learning and Double Q-learning (off-policy) algorithms to find optimal path towards goal state<br>
+•	Visualized environment and data plots for statistics of agents over 1000 episodes with Matplotlib<br>
 
 <b>Logistic Regression | Python - Numpy - Pandas</b><br>
 • Used Pandas to clean the Penguin dataset and change categorical values to numerical ones<br>
@@ -101,8 +101,8 @@ Kotlin - SQLite <br></b>
 • Trained the model with the penguin dataset and achieved 85% accuracy on testing set<br>
 
 <b>Image Clustering Face Recognition | Python - PyTorch</b><br>
-•	Applied face recognition library's face_encodings function to extract a numerical representation (embedding) of each face's features<br>
-•	Developed k-means clustering algorithm, with only basic functions of PyTorch, to group same faces together by using the face encodings<br>
+•	Utilized face recognition library's face_encodings to extract numerical face feature representations<br>
+•	Implemented a k-means clustering algorithm in PyTorch to group similar faces based on encodings<br>
 
 <b>AI Sliding Puzzle | Python</b><br>
 •	Created a Sliding puzzle as a 3x3 NumPy matrix with numbers 0 to 9<br>
@@ -154,8 +154,9 @@ Kotlin - SQLite <br></b>
 <br>
 <p align=left>
 <b>Dynamic Memory Allocator | C </b><br>
-•	Implemented dynamic allocation for small sized memory requests on x86-64 architecture by developing functional Malloc, Calloc, Realloc and free functions for Unix processes<br>
-•	Divided pages in blocks of powers of 2, minimally 32 bytes, and stored unused memory in an Array of Linked Lists structure<br>
+•	Implemented a dynamic memory allocator to replace malloc() / realloc() for heap memory in a Unix process, focusing on dynamic memory management and pointer manipulation<br>
+•	Implemented multi-pool allocation for memory sizes ranging from 32 to 4096 bytes, enhancing program performance by reusing memory blocks and reducing OS requests<br>
+•	Created a free list indexed by allocation size, optimizing allocation and deallocation operations<br>
 
 <b>Semaphore and Producer Consumer Queue | C</b><br>
 •	Built a Semaphore by utilizing one POSIX mutex and one condition variable<br>
